@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm <h1>👨Md. Al Amin<h1/>
   #### <h3>✔Software Engineer</h3>
 ![✔Software Engineer](https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0)
+  
+![Profile views](https://gpvc.arturio.dev/alamin937)  
 
 <h2><b>👨‍⚖️ About Me</b></h2>
 Hey I'm Md. Al Amin. I'm Complete my graduation from Bangladesh University of Business and Technology. Major is Software Engineer. I'm Learning to work as a SQA engineer. I completed some few work in software testing.
@@ -25,4 +27,4 @@ Hey I'm Md. Al Amin. I'm Complete my graduation from Bangladesh University of Bu
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin937)  
 
-![Profile views](https://gpvc.arturio.dev/alamin937)  
+

@@ -15,7 +15,7 @@ Hey I'm Md. Al Amin. I'm Complete my graduation from Bangladesh University of Bu
 
 [<img style="width:5" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/alamin937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-al-amin-20ba14216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/alamin.anik.10/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alamin937)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin937)](https://github.com/anuraghazra/github-readme-stats)
 

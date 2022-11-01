@@ -15,7 +15,7 @@ Skills: Manual Testing/Postman/Jira/JMeter/Git/HTML/CSS/React/JavaScript/Bootstr
 - 🌱 I’m currently learning Software Quality Assurance 
 - 👯 I’m looking to collaborate on Git 
 
-
+<h3>CONNECT ME</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin937)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-al-amin-20ba14216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/alamin.anik.10/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alamin937)](https://github.com/ryo-ma/github-profile-trophy)

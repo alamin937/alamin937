@@ -2,14 +2,14 @@
   #### <h3>✔Software Engineer</h3>
 ![✔Software Engineer](https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0)
 
-<h2><b>About Me</b></h2>
+<h2><b>👨‍⚖️ About Me</b></h2>
 Hey I'm Md. Al Amin. I'm Complete my graduation from Bangladesh University of Business and Technology. Major is Software Engineer. I'm Learning to work as a SQA engineer. I completed some few work in software testing.
   
 - 🔭 I’m currently working on Bangladesh University Of Business and Technology 
 - 🌱 I’m currently learning Software Quality Assurance 
 - 👯 I’m looking to collaborate on Git 
 
-<h2><b>Skills</b></h2><h4>🥇Manual Testing<br>🥇Postman<br>🥇Jira<br>🥇JMeter<br>🥇Git<br>🥇HTML<br>🥇CSS<br>🥇React<br>🥇JavaScript<br>🥇Bootstrap</h4>
+<h2><b>✒ Skills</b></h2><h4>🥇Manual Testing<br>🥇Postman<br>🥇Jira<br>🥇JMeter<br>🥇Git<br>🥇HTML<br>🥇CSS<br>🥇React<br>🥇JavaScript<br>🥇Bootstrap</h4>
 
   <h2><b>🖐 Connect me<b></h2>
 

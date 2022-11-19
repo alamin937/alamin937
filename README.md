@@ -11,7 +11,7 @@ Hey I'm Md. Al Amin. I'm Complete my graduation from Bangladesh University of Bu
 - 🌱 I’m currently learning Software Quality Assurance 
 - 👯 I’m looking to collaborate on Git 
 
-<h2><b>✒ Skills</b></h2><h4>🥇 Manual Testing 🥇 Postman🥇 Jira 🥇 JMeter🥇 Git 🥇 Selenium 🥇 TestNg <br>🥇 HTML🥇 CSS 🥇 React🥇 JavaScript🥇 Bootstrap</h4>
+<h2><b>✒ Skills</b></h2><h4>🥇 Manual Testing 🥇 Automation Testing 🥇 Postman🥇 Jira 🥇 JMeter🥇 Git 🥇 Selenium 🥇 TestNg 🥇 Cypress <br>🥇 HTML🥇 CSS 🥇 React🥇 JavaScript🥇 Bootstrap</h4>
 
   <h2><b>🖐 Connect me<b></h2>
 
